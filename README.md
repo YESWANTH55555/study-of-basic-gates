@@ -71,6 +71,7 @@ Y= A⊕B
 
  
 ### Logic symbol & Truthtable
+![WhatsApp Image 2024-11-07 at 10 54 06_fc8cff23](https://github.com/user-attachments/assets/90c7b12d-4123-4af6-903d-6606d3c1e1b0)
 
 ### RTL realization Output:
 ![DE exp 1 Logic diagram](https://github.com/user-attachments/assets/db63e985-3891-48ce-b951-4f4552f6bf39)
