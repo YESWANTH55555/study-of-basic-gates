@@ -1,6 +1,6 @@
 ### Name: Yeswanth Peddepi
 ### Reg No: 24010970
-### EXP NO: 1 : STUDY OF BASIC GATES   
+### EXP NO: 2 : STUDY OF BASIC GATES   
 
 ### AIM: 
 
